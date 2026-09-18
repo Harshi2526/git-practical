@@ -1,1 +1,2 @@
-echo "Git Practical">README.txt
+Git Practical 
+This is my feature branch.
